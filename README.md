@@ -7,6 +7,8 @@ SUSTech GPA Viewer
 
 ## 运行
 
+项目无需安装，可直接运行。[下载URL](https://github.com/HuaHuaY/SUSTech_HowManyGPA/releases)
+
 ### 介绍
 
 项目是MFC应用程序，使用Visual Studio 2019编译，项目编码为多字节。
