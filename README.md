@@ -1,4 +1,6 @@
-# SUSTech_HowManyGPA
+# SUSTech_HowManyGPA(Outdated)
+**This repo is outdated. It's designed for old education system jwxt.sustech.edu.cn, not the new tis.sustech.edu.cn.**
+
 SUSTech GPA Viewer
 
 ## 运行环境
